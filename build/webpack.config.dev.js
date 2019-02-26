@@ -38,6 +38,19 @@ module.exports = merge(baseConfig, {
           'css-loader',
           'stylus-loader'
         ]
+      }, {
+        test: /\.scss$/,
+        use: [
+          {
+            loader: 'style-loader'
+          },
+          {
+            loader: 'css-loader'
+          },
+          {
+            loader: 'sass-loader'
+          }
+        ]
       }
     ]
   },
