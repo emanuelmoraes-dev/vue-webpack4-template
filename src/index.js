@@ -1,7 +1,6 @@
 import 'babel-polyfill'
 import 'es6-promise/auto'
 
-import '@fortawesome/fontawesome-free/css/all.css'
 import 'open-iconic/font/css/open-iconic.min.css'
 import 'ionicons/dist/css/ionicons.min.css'
 import 'openwebicons/css/openwebicons.min.css'
