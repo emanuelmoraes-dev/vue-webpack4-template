@@ -1,7 +1,6 @@
 import 'babel-polyfill'
 import 'es6-promise/auto'
 
-// icons
 import '@fortawesome/fontawesome-free/css/all.css'
 import 'open-iconic/font/css/open-iconic.min.css'
 import 'ionicons/dist/css/ionicons.min.css'
@@ -9,7 +8,6 @@ import 'openwebicons/css/openwebicons.min.css'
 import '../assets/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css'
 import '../assets/Font-Awesome/all.css'
 
-// css bootstrap
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
