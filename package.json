@@ -18,8 +18,22 @@
   "author": "Daniel Cook",
   "license": "MIT",
   "dependencies": {
+    "awesome-bootstrap-checkbox": "^1.0.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.13",
+    "es6-promise": "^4.2.6",
+    "ionicons": "^4.5.5",
+    "jquery": "^3.3.1",
+    "open-iconic": "^1.1.1",
+    "openwebicons": "^1.6.0",
     "vue": "^2.6.6",
-    "vue-router": "^3.0.2"
+    "vue-axios": "^2.1.4",
+    "vue-cookies": "^1.5.12",
+    "vue-jwt-decode": "^0.1.0",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.1.0",
+    "vuex-store": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.3",
